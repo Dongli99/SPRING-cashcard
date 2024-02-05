@@ -18,7 +18,7 @@ The repo is following the course [Building a REST API with Spring Boot](https://
 
 # Knowledge Explored
 
-*As of February 5th*
+*As of February 5th, see [Spring.pdf](Spring.pdf) for more details.*
 
 ## Concepts
 
