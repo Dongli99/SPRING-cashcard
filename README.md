@@ -11,30 +11,6 @@
 - [Overview](#overview)
 - [Course Outcomes](#course-outcomes)
 - [Knowledge Explored](#knowledge-explored)
-  - [Concepts](#concepts)
-    - [Main idea](#main-idea)
-    - [IoC (Inversion of Control)](#ioc-inversion-of-control)
-    - [API Contracts \& JSON](#api-contracts--json)
-    - [Testing](#testing)
-    - [REST in Spring Boot](#rest-in-spring-boot)
-    - [Repositories \& Spring Data](#repositories--spring-data)
-    - [Security](#security)
-  - [Code Analysis](#code-analysis)
-    - [Components](#components)
-      - [APP](#app)
-      - [CRUD](#crud)
-      - [DATA](#data)
-      - [TEST](#test)
-      - [UTIL](#util)
-    - [Annotations](#annotations)
-      - [Class Level](#class-level)
-      - [Class Variable](#class-variable)
-      - [Class Method](#class-method)
-      - [Parameter Level](#parameter-level)
-  - [File Analysis](#file-analysis)
-    - [build.gradle](#buildgradle)
-    - [schema.sql](#schemasql)
-    - [data.sql](#datasql)
 
 # Overview
 
@@ -107,6 +83,15 @@ The repo is following the course [Building a REST API with Spring Boot](https://
 
 ## Code Analysis
 
+- [Overview](#overview)
+- [Course Outcomes](#course-outcomes)
+- [Knowledge Explored](#knowledge-explored)
+  - [Concepts](#concepts)
+  - [Code Analysis](#code-analysis)
+    - [Components](#components)
+    - [Annotations](#annotations)
+  - [File Analysis](#file-analysis)
+
 ### Components
 
 #### APP
@@ -168,6 +153,16 @@ The repo is following the course [Building a REST API with Spring Boot](https://
 - @Id
 
 ## File Analysis
+
+- [Overview](#overview)
+- [Course Outcomes](#course-outcomes)
+- [Knowledge Explored](#knowledge-explored)
+  - [Concepts](#concepts)
+  - [Code Analysis](#code-analysis)
+  - [File Analysis](#file-analysis)
+    - [build.gradle](#buildgradle)
+    - [schema.sql](#schemasql)
+    - [data.sql](#datasql)
 
 ### build.gradle
 
