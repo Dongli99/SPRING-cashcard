@@ -1,8 +1,9 @@
 <h1 align="center">CashCard Spring Boot Practice<h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/spring boot-0D1129.svg?style=for-the-badge&logo=springboot&logoColor=%6DB33F" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/spring boot-82B816.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/junit-BE3939.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white" alt="Java">
 </div>
 
 # Table of Contents
