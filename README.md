@@ -19,10 +19,10 @@ The repo is following the course [Building a REST API with Spring Boot](https://
 
 # Course Outcomes
 
-- Build a fully functional `REST API` with Spring Boot.
-- Utilize `Spring Security` to authenticate and authorize your application.
-- Implement `test-driven development`.
-- Convert database and Java objects automatically using `Spring Data JDBC`.
+- Build a fully functional **`REST API`** with Spring Boot.
+- Utilize **`Spring Security`** to authenticate and authorize your application.
+- Implement **`Test-Driven Development`**.
+- Convert database and Java objects automatically using **`Spring Data JDBC`**.
 
 # Knowledge Explored
 
